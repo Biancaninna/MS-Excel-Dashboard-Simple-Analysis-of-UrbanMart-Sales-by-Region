@@ -30,4 +30,4 @@ Our clients wants us to create simple analysis of UrbanMart Sales by Region MS E
 
 ### To see the final result of dashboard visualization using MS Excel, visit:
 
-[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]
+[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://biancaninna.github.io/MS-Excel-Dashboard-Simple-Analysis-of-UrbanMart-Sales-by-Region/)
